@@ -5,6 +5,8 @@
 I am specialize in data analysis, where I use my skills to uncover meaningful trends and drive informed decision-making. My projects focus on leveraging Python for data manipulation and statistical analysis, followed by creating compelling visualizations to tell a story with data.
 
 - 🔭 I’m currently working on exciting projects that leverage data to solve real-world business challenges.
+
+- 💡 **Skills**: Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, SQL, Power BI.
   
 - 🌱 I'm always looking to expand my knowledge and apply new data techniques.
 
@@ -12,7 +14,6 @@ I am specialize in data analysis, where I use my skills to uncover meaningful tr
 
 - 📫 How to reach me **falgunisamar2002@gmail.com**
 
-- 
  ### 🛠️ My Toolbox
 Here are some of the tools and technologies I work with:
 
