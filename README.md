@@ -2,7 +2,7 @@
 <h3 align="center">A data enthusiast and analyst focused on building practical, data-driven solutions </h3>
 
 ### 📈 About Me
-I am a data professional with a passion for transforming complex datasets into actionable insights. My expertise spans the entire data pipeline, from cleaning and analysis to visualization and reporting.
+I am specialize in data analysis, where I use my skills to uncover meaningful trends and drive informed decision-making. My projects focus on leveraging Python for data manipulation and statistical analysis, followed by creating compelling visualizations to tell a story with data.
 
 - 🔭 I’m currently working on exciting projects that leverage data to solve real-world business challenges.
   
