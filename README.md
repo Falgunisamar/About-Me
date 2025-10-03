@@ -1,5 +1,5 @@
 # About-Me<h1 align="center">Hi 👋, I'm Falguni Samar</h1>
-<h3 align="center">A data enthusiast and analyst focused on building practical, data-driven solutions from India</h3>
+<h3 align="center">A data enthusiast and analyst focused on building practical, data-driven solutions </h3>
 
 ### 📈 About Me
 I am a data professional with a passion for transforming complex datasets into actionable insights. My expertise spans the entire data pipeline, from cleaning and analysis to visualization and reporting.
@@ -7,8 +7,6 @@ I am a data professional with a passion for transforming complex datasets into a
 - 🔭 I’m currently working on exciting projects that leverage data to solve real-world business challenges.
   
 - 🌱 I'm always looking to expand my knowledge and apply new data techniques.
-
-- 🌱 I'm currently learning **ReactJS**
 
 - 💬 Ask me about Python, data analysis, or creating insightful reports.
 
